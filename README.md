@@ -17,5 +17,6 @@ This is a Guess the Number Game created using HTML, CSS, and JavaScript. The com
 - **JavaScript* – game logic
 
 **- Live At:**
-**GitHub: **  https://nehafarooq048.github.io/Guess-The-Number-Game/
-**Netlify:** https://guessingnogame.netlify.app/
+- **GitHub:**  https://nehafarooq048.github.io/Guess-The-Number-Game/
+
+- **Netlify:** https://guessingnogame.netlify.app/
